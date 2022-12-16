@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Carol Roll",
+			"carol",
+			[
+				102,
+				102,
+				153
+			]
+		],
+		[
+			"Body",
+			"carol",
+			[
+				102,
+				102,
+				153
+			]
+		],
+		[
+			"Boogie",
+			"carol",
+			[
+				102,
+				102,
+				153
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"difficulties": "",
+	"weekCharacters": [
+		"carol",
+		"bf",
+		"gf"
+	],
+	"storyName": "CAROL",
+	"weekName": "CAROL",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week6",
+	"startUnlocked": true
+}
